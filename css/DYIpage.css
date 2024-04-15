@@ -1,0 +1,15 @@
+#Top{
+    text-align: center;
+
+
+}
+
+body{
+    /* text-align: center; */
+    background-color:rgb(193, 247, 229);
+    font-family: 'Times New Roman', Times, serif;
+    border: 7px solid black;
+    margin: 30px;
+    padding: 20px;
+    
+}
